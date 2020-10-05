@@ -5,7 +5,7 @@
 ##### h5 Heading
 ###### h6 Heading
 
-[Some Link]({% EsbenGammelgaard.github.io/project1.md %})
+[Some Link](EsbenGammelgaard.github.io/project1.md)
 
 
 ## Horizontal Rules
