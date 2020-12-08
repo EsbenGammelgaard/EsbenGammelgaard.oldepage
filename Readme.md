@@ -16,4 +16,7 @@ I have created this portfolio for two reasons. The first and most important is t
 
 ### [Digit recongnition - Neural Network](https://github.com/EsbenGammelgaard/NeuralNetwork)
 
-##Last Edit: 08-12-2020
+
+
+
+## Last Edit: 08-12-2020
