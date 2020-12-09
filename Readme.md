@@ -8,6 +8,11 @@ I have created this portfolio for two reasons. The first and most important is t
 
 ### [Cleaning Building Permits data from San Francisco](https://github.com/EsbenGammelgaard/Cleaning-SanFran-Building-Permits)
 
+# Normalization
+
+### [Normalization of MNIST data](https://github.com/EsbenGammelgaard/Normalization)
+
+
 # Machine Learning
 
 ### [Digit recongnition - K Nearest Neighbour](https://github.com/EsbenGammelgaard/KNN)
