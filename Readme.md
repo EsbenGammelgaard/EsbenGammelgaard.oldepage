@@ -8,6 +8,10 @@ I have created this portfolio for two reasons. The first and most important is t
 
 ### [Cleaning Building Permits data from San Francisco](https://github.com/EsbenGammelgaard/Cleaning-SanFran-Building-Permits)
 
+
+# Data Visuallization 
+[Visualizing Operational Parameteres for Cranfield Multiphase Flow Facility](https://github.com/EsbenGammelgaard/Cranfield/blob/main)
+
 # Normalization
 
 ### [Normalization of MNIST data](https://github.com/EsbenGammelgaard/Normalization)
