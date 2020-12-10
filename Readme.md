@@ -28,4 +28,5 @@ I have created this portfolio for two reasons. The first and most important is t
 
 
 
-## Last Edit: 10-12-2020
+### Created and edited by Esben Gammelgaard
+Last Edit: 10-12-2020
