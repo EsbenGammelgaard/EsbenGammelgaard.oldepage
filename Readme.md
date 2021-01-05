@@ -8,7 +8,7 @@
 
 
 ### Data Visuallization 
-[Visualizing Operational Parameteres for Cranfield Multiphase Flow Facility](https://github.com/EsbenGammelgaard/Cranfield/blob/main)
+[Visualizing Operational Parameteres for Cranfield Multiphase Flow Facility](https://github.com/EsbenGammelgaard/Cranfield)
 
 ### Normalization
 
