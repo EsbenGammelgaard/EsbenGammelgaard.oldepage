@@ -1,7 +1,7 @@
 # Programmers Portfolio
 
 ### SQL and KPI
-[SQL data upload and querying to perform KPI on E-commerce data}(https://github.com/EsbenGammelgaard/E-commerce-KPI)
+[SQL data upload and querying to perform KPI on E-commerce data](https://github.com/EsbenGammelgaard/E-commerce-KPI)
 
 
 ### [My CV](https://github.com/EsbenGammelgaard/CV/blob/main/EG_CV_DK.pdf)
