@@ -32,4 +32,5 @@
 
 
 ### Created and edited by Esben Gammelgaard
-Last Edit: "`r format(Sys.time(), '%d %B, %Y')`"
+
+date: "Last Edit: `r format(Sys.time(), '%d %B, %Y')`"
