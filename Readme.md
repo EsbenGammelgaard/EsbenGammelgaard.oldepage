@@ -33,4 +33,4 @@
 
 ### Created and edited by Esben Gammelgaard
 
-date: "Last Edit: `r format(Sys.time(), '%d %B, %Y')`"
+Last Edit: 07/01/2021
