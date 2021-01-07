@@ -32,4 +32,4 @@
 
 
 ### Created and edited by Esben Gammelgaard
-Last Edit: %d/%m/%y
+Last Edit: "`r format(Sys.time(), '%d %B, %Y')`"
